@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "silver-axon-338805",
+  "private_key_id": "a009cc3daafc39e7b4c756de3f4748710b631927",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMGxx3p3DRPa7+\ncdBmU0intscBOF4QAwdmNwcLJizj89GXfQjoomxRO7oPfQSbSeKvm76jXq4B6UYQ\nEgKWB9Z15xYCk38oTJGKc+MO6lupNNHizaEYtY74XE/Uk9gb11qRB+XHXLZQXexm\nGdVQ+cs2pw3WMBQOm0glLbWBGRpWje+bk6DlnuYzyeNMpwhHS0WM9cEROqz7aUh1\nRf/DecP+oBnPTQtwJqEiWJkSGHUB4XgKCLuY9URIyKf2wWcycPl+pXDndirQd31q\nE3DOzP41TPeCK02RYClJ2C/Mz12J0dF779S7lIffrRLWcVhEFXE/zrWjdFJl4SWm\nV41INmbjAgMBAAECggEAF6n5BffC1m+kD1obbbxa4HRfjvOobDYoWyB8JOhwgfQD\nKTYqR0E1n8F1/qphqK4gpc2VL78gG5aeienHT6UUUf0l3yHstzu8EA+u6UwgrnXc\n88J1hWDfdPTMSKWPg8LXJu4sejh0kXgiRWraAZZvNM9E2mrJQzGbuWZwScnNn5qG\nGH58XOYwja3rmICIiOJ+pUHHSOkrcgaSue7XOFvlx7wmrYOiaYc89Gis6IdZkUPh\nuiYM5Mocz0BKryFCMKSlOe4mNsEj6z6AD9KZQSauPp7zMiLSjTVlmmJleMbsfKm6\n676Dnyu3zO8/qDuu/yNkD/7UjF3JvS4YU6y0i4H6KQKBgQDyvsvPYyPfLXR9LTKt\nARLw2PCbVmhNZve1VYFFReYrdLxJ3ie4xwjLlfbTeE19oKH6tNp2vFGvDFLyLmCR\n49zndiTDIMqGDSu5lhQ7iXj+HPcBmAtHuDb780sQzzdjvurZmk3j8Txk9lErVL0s\nyEHdrkA6+/hN32G4dfPujRdUrQKBgQDXQDIy5i2IYecSdrBfC36du4TgXoZxZWjY\ngCE6rirGz0CBpIsEkblQ3Dt0Lwm1RHiyu582iX/IREXZBWsK0AEt8bQH+6IKkOET\naHQaptKT3hOSZdzL0a7cSJG6/POQJk+6v7OjiPLcQsCcbPAzVv/uJvt/f8uu+8XH\nq4ImAbuLzwKBgBzoxiMLvpDsu+vQfzGFaDkQzQ7i6ocVVTjeVwfl/DR+sZHmiDqE\nUbLVSFEFCc2FXOUbtszfPqcnQ5WeGlglmABk3Jn0hMoUNXnjusMgay1wS6Z/8g/3\ni2zUG8ODuigB67xAmTglWbj4cNBFRkZYDygUgYfEzFyR1vR977AgU3/9AoGBAL2l\nPNUlgaZwg5L76WbEDNlR1r+L6K3N6DMfqKc3vk6NWUsfuq/a6Eg60VMLAmWnnyPy\nNFNrj57VsCiGIopTO0bMdo62AE2I2hUsaWb15gALoHjSsFcPNh20/lid9sXhS0vB\nDLefuEGhumvXe0Xwd+rOg7UQ1lckUlwaWr+7tQ53AoGAV0n+9pvG69UAByMWezro\nHq7eqfq2CiQmcJPbAkREgwlgjel+dQ/HaTL6CFng1jcvy9hYLSem9cR8hCkieVtn\nzXHSnrYZ7Iv9q9GZ/O+MSSk1vk82zERmAMR3M8wYl8Fp4xC9h6L7EJW2Sn4t2hg4\n9sxLCfAMGRXWQMuToqE8r7A=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sanabook@silver-axon-338805.iam.gserviceaccount.com",
+  "client_id": "110520726031714742759",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sanabook%40silver-axon-338805.iam.gserviceaccount.com"
+}
